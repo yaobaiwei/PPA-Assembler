@@ -1,0 +1,2 @@
+/data/opt/brew/bin/ar qc libPPA_Assembler-iniparser.a  CMakeFiles/iniparser-objs.dir/dictionary.c.o CMakeFiles/iniparser-objs.dir/iniparser.c.o
+/data/opt/brew/bin/ranlib libPPA_Assembler-iniparser.a

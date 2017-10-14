@@ -1,0 +1,1 @@
+/data/opt/brew/bin/mpic++   -std=c++11 -O2 -Wno-deprecated -m64  -rdynamic CMakeFiles/run.dir/example.cpp.o  -o ../../release/run ../utils/iniparser/libPPA_Assembler-iniparser.a -lhdfs -lpthread 
