@@ -15,7 +15,7 @@ PPA-assembler, a distributed toolkit for de novo genome assembly based on Pregel
 ## Getting Started
 
 * **Install**  
-  PPA-assembler is built on the top of our previous project [Pregel+](http://www.cse.cuhk.edu.hk/pregelplus/index.html). To install PPA-assembler's dependencies (e.g., MPI, HDFS), using instructions in the following [guide](http://www.cse.cuhk.edu.hk/pregelplus/documentation.html).
+  PPA-assembler is built on the top of our previous project [Pregel+](http://www.cse.cuhk.edu.hk/pregelplus/index.html). To install PPA-assembler's dependencies (e.g., MPI, HDFS), using the instructions in this [guide](http://www.cse.cuhk.edu.hk/pregelplus/documentation.html).
 
 * **Build**   
 	```bash
